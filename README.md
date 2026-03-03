@@ -88,7 +88,7 @@ python scripts/make_weekly_report.py --config configs/config.yml
 
 生成物は outputs/ 配下に出力されます。
 
-非エンジニア向けの詳細手順は docs/how_to_run.md を参照してください。
+非エンジニア向けの詳細手順は [docs/how_to_run.md](docs/how_to_run.md) を参照してください。
 
 週の指定方法（W01/W02の作り分け）
 
