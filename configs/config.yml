@@ -1,0 +1,21 @@
+input_path: data/processed/week_sample_with_holiday.xlsx
+output_dir: outputs
+# 空ならデータ内の最新週（ISO週）を使う
+target_week_label: ""
+
+# 入力列名が違う場合にここで吸収（canonical: actual）
+columns:
+  datetime: datetime
+  store: store
+  department: department
+  category: category
+  product_code: product_code
+  product_name: product_name
+  qty: qty
+  sales_yen: sales_yen
+  cost_yen: cost_yen
+  discount_yen: discount_yen
+  transaction_id: transaction_id
+  customer_id: customer_id
+  is_holiday: is_holiday
+  holiday_name: holiday_name

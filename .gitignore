@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# venv
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Data / Outputs (avoid uploading large or sensitive files)
+data/raw/
+outputs/
+*.xlsx
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.bak*
