@@ -18,9 +18,9 @@ data/raw/
 outputs/
 *.xlsx
 
-# Logs
-*.log
-
 # Backup files
 *.bak
 *.bak*
+
+# Logs
+*.log
