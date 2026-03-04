@@ -24,3 +24,7 @@ outputs/
 
 # Logs
 *.log
+
+# Local artifacts
+Monthly_Trend.png
+analysis.py
