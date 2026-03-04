@@ -77,7 +77,7 @@ POS明細（Excel）を入力として、週次KPI（売上・粗利・粗利率
 ### 1) 仮想環境を有効化
 ```bash
 # 例：プロジェクト直下へ移動
-cd /Users/yama/Documents/業務効率
+cd supermarket-weekly-report
 
 # venv有効化（Mac/Linux）
 source .venv/bin/activate
