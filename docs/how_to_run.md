@@ -73,9 +73,3 @@ python scripts/make_weekly_report.py --config configs/config.yml
 週指定で作った後は、target_week_label: "" に戻す（最新週自動に戻す）
 
 生成後は必ず 90_quality → 01_summary の順に確認してから配布
-
-
-次の「1つ」：保存できたら、ターミナルでこれだけ実行してください👇
-
-```bash
-git status
